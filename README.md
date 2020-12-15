@@ -3,12 +3,9 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nin9.nin9) -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedalawadly)
-
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://www.leetcode.com/ash_7)
-
-[![Leetcode](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ash_7)
-
-[![Leetcode](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=HashNode&logoColor=white)](https://aali.hashnode.dev)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ash_7)
+[![HashNode](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=HashNode&logoColor=white)](https://aali.hashnode.dev)
 
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nin9&label=Profile%20views&color=0e75b6&style=flat" alt="nin9" /> </p>
