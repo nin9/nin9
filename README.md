@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software enginner with 4 years of experience, currently working at Bevy.
+I'm a software enginner with 4 years of experience, currently working at Delivery Hero SE.
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nin9.nin9) -->
 
