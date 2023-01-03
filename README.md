@@ -12,7 +12,7 @@ I'm a software enginner with 4 years of experience, currently working at Deliver
 
 </br>
 
-![Ahmed Ali github stats](https://github-readme-stats.vercel.app/api?username=nin9&show_icons=true&count_private=true&hide_border=true&theme=gotham)
+![Ahmed Alawadly github stats](https://github-readme-stats.vercel.app/api?username=nin9&show_icons=true&count_private=true&hide_border=true&theme=gotham)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nin9&hide=jupyter_notebook)](https://github.com/nin9/nin9) -->
 
