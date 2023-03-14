@@ -10,9 +10,9 @@ I'm a software enginner with 4 years of experience, currently working at Deliver
 [![HashNode](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=HashNode&logoColor=white)](https://aali.hashnode.dev)
 <img src="https://komarev.com/ghpvc/?username=nin9&label=Profile%20views&color=0e75b6&style=flat" alt="nin9" />
 
-</br>
+<!-- </br> -->
 
-![Ahmed Alawadly github stats](https://github-readme-stats.vercel.app/api?username=nin9&show_icons=true&count_private=true&hide_border=true&theme=gotham)
+<!-- ![Ahmed Alawadly github stats](https://github-readme-stats.vercel.app/api?username=nin9&show_icons=true&count_private=true&hide_border=true&theme=gotham) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nin9&hide=jupyter_notebook)](https://github.com/nin9/nin9) -->
 
