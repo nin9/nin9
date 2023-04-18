@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software enginner with 4 years of experience, currently working at Delivery Hero SE.
+I'm a software enginner with 5 years of experience, currently working at Delivery Hero SE.
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=nin9.nin9) -->
 
@@ -8,7 +8,7 @@ I'm a software enginner with 4 years of experience, currently working at Deliver
 [![Leetcode](https://img.shields.io/badge/-Leetcode-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://www.leetcode.com/ash_7)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-brightgreen?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/ash_7)
 [![HashNode](https://img.shields.io/badge/-Blog-blue?style=flat-square&logo=HashNode&logoColor=white)](https://aali.hashnode.dev)
-<img src="https://komarev.com/ghpvc/?username=nin9&label=Profile%20views&color=0e75b6&style=flat" alt="nin9" />
+<!-- <img src="https://komarev.com/ghpvc/?username=nin9&label=Profile%20views&color=0e75b6&style=flat" alt="nin9" /> -->
 
 <!-- </br> -->
 
